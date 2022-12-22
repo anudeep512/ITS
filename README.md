@@ -1,7 +1,7 @@
 
 # Inventory Tracking System
 
-This project is done for the course CS-1063. This project aims at developping a inventory tracking system for a department in a college.
+This project aims at developping a inventory tracking system for a department in a college.
 
 
 ## Documentation
