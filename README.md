@@ -22,7 +22,7 @@ The Documentation of the project can be found in the project folder "Documentati
 
 **Database:** MySQL
 
-**Tools Used:**: Scene Builder, MySQL Workbench
+**Tools Used:** Scene Builder, MySQL Workbench
 
 
 
